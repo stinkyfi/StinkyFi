@@ -1,7 +1,7 @@
 ## <img src="https://i.ibb.co/GcfhJK6/9384-Link-Swag.gif" width="50" height="50"> Hi I'm Stinky 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stinkyfi.StinkyFi)
-![Twitter Follow](https://img.shields.io/twitter/follow/nomamesgwei2?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/nomamesgwei?style=social)
 
 - 📫 How to reach me: stinkyzeroex@gmail.com
 - 🔭 I’m currently working on [OGDAO](https://github.com/EBOGDAO)
