@@ -11,7 +11,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Python Badge](https://img.shields.io/badge/-python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) 
-[![Java Badge](https://img.shields.io/badge/-java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) 
 [![ETH Badge](https://img.shields.io/badge/-ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=3C3C3D)](#) 
+[![Java Badge](https://img.shields.io/badge/-java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![PHP Badge](https://img.shields.io/badge/-php-4B0082?style=for-the-badge&labelColor=black&logo=php&logoColor=4B0082)](#) 
