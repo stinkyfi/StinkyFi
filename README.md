@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: stinkyzeroex@gmail.com
 - 🔭 I’m currently working on [OGDAO](https://github.com/EBOGDAO)
-- 🌱 I’m currently learning Solidity
+- 🌱 Learning Solidity
 
 #### Top Technologies
 
