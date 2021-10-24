@@ -25,7 +25,7 @@
 
 ```0x0f870bbfd802b1195a549612698d8d1549550621```
 
-FLOOT.sol
+<img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/34ca5/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/34ca5/eth-diamond-purple.png" width="12" height="18" /> FLOOT.sol
 
 ```0x8E03a582968703Ff9980bbcDC4CB9efE152a3a1a```
 
