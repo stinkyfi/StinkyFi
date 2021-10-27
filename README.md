@@ -31,6 +31,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> NightmareOnFantomSt.sol
 
-``` Coming Soon! ```
+``` 0x44dEa70BE365F616F1b47346005045374e827b83 ```
 
 
