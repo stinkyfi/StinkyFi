@@ -21,7 +21,7 @@
 
 
 ## Contracts
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Agreement.sol
+<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> [Agreement.sol](https://github.com/EBOGDAO/og-dapp/blob/master/contracts/Agreement.sol)
 
 ```0x0f870bbfd802b1195a549612698d8d1549550621```
 
@@ -29,7 +29,7 @@
 
 ```0x8E03a582968703Ff9980bbcDC4CB9efE152a3a1a```
 
-<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> NightmareOnFantomSt.sol
+<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> [NightmareOnFantomSt.sol](https://github.com/TwistedTech-wtf/NightmareOnFantomSt)
 
 ``` 0x44dEa70BE365F616F1b47346005045374e827b83 ```
 
