@@ -24,7 +24,7 @@
 
 ```0x0f870bbfd802b1195a549612698d8d1549550621```
 
-<img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/34ca5/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/34ca5/eth-diamond-purple.png" width="12" height="18" /> FLOOT.sol
+<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> FLOOT.sol
 
 ```0x8E03a582968703Ff9980bbcDC4CB9efE152a3a1a```
 
@@ -35,3 +35,11 @@
 <img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> TUNE.sol
 
 ``` 0xf2781c06C07421E770A1F6B00415829C3C98a1b8 ```
+
+<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BubonicBastards.sol
+
+``` 0x9B1372e4A65d914D670f061913AD746250533b49 ```
+
+<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BLOODToken.sol
+
+``` 0xa75bdbc03a9e5ea6e695aa3e8321f181f61d0fae ```
