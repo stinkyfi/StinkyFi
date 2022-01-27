@@ -43,3 +43,7 @@
 <img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BLOODToken.sol
 
 ``` 0xa75bdbc03a9e5ea6e695aa3e8321f181f61d0fae ```
+
+<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BLOODTransfusion.sol
+
+``` 0x52CdBD45cD04c3d647822749A61dF2dB91e6d7AA ```
