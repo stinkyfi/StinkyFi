@@ -44,6 +44,6 @@
 
 ``` 0xa75bdbc03a9e5ea6e695aa3e8321f181f61d0fae ```
 
-<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BLOODTransfusion.sol
+<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> DegenDwarfs.sol
 
-``` 0x52CdBD45cD04c3d647822749A61dF2dB91e6d7AA ```
+```Coming Soon```
