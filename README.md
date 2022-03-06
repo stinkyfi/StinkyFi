@@ -44,6 +44,10 @@
 
 ``` 0xa75bdbc03a9e5ea6e695aa3e8321f181f61d0fae ```
 
+<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Narcissus.sol
+
+```0xF8eAE98B903026FFc6Cf6C110FcA374A2f16CE82```
+
 <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> DegenDwarfs.sol
 
 ```Coming Soon```
