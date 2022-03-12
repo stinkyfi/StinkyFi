@@ -15,8 +15,6 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 [![ETH Badge](https://img.shields.io/badge/-ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=3C3C3D)](#) 
 [![Python Badge](https://img.shields.io/badge/-python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) 
-[![Java Badge](https://img.shields.io/badge/-java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 
 ## Contracts
@@ -44,14 +42,14 @@
 
 ``` 0xa75bdbc03a9e5ea6e695aa3e8321f181f61d0fae ```
 
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Narcissus.sol
+<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> [Narcissus.sol](https://polygonscan.com/address/0xF8eAE98B903026FFc6Cf6C110FcA374A2f16CE82)
 
 ```0xF8eAE98B903026FFc6Cf6C110FcA374A2f16CE82```
 
-<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> DegenDwarfs.sol
+<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> [DegenDwarfs.sol](https://etherscan.io/address/0x1c1d2097147cc1ffc0a9a3e50bdbc8ff616cfe93)
 
 ```0x1c1D2097147Cc1FFC0a9A3e50bDBc8Ff616CfE93```
 
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> FangAndFur.sol
+<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> [FangAndFur.sol](https://polygonscan.com/address/0x9091C144218D3Ab99C716833404B74A87aea4c74)
 
 ```0x9091C144218D3Ab99C716833404B74A87aea4c74```
