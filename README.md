@@ -1,55 +1,27 @@
-#  Hi I'm Stinky 
-<img src="https://i.ibb.co/jVhfqQF/stinky-Code.gif" height="250">
+# <kbd><img src="https://i.ibb.co/mqF9hrP/burp.gif" height="50"></kbd> Hi, I'm Stinky 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=stinkyfi.StinkyFi)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/nomamesgwei?style=social)
 
 
+- :telescope: I take projects from ideas, into working products.
+- :man_technologist: Available for Hire (Developer and Consultant)
+- :e-mail: Email Me: stinkyzeroex@gmail.com
+- :bird: Tweet Me: [@nomamesgwei](https://twitter.com/nomamesgwei)
 
 
-- 📫 How to reach me: stinkyzeroex@gmail.com
-- 🔭 Merc, activley looking for work.
-
-## Top Technologies
-
+##  Experience
+#### Deployed on
+<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> Ethereum <img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Polygon <img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> Fantom
+#### Development Languages
 <!-- TODO: Make technologies links takes you to repositories -->
-[![ETH Badge](https://img.shields.io/badge/-ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=3C3C3D)](#) 
-[![Python Badge](https://img.shields.io/badge/-python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) 
-
-
-## Contracts
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> [Agreement.sol](https://github.com/EBOGDAO/og-dapp/blob/master/contracts/Agreement.sol)
-
-```0x0f870bbfd802b1195a549612698d8d1549550621```
-
-<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> FLOOT.sol
-
-```0x8E03a582968703Ff9980bbcDC4CB9efE152a3a1a```
-
-<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> [NightmareOnFantomSt.sol](https://github.com/TwistedTech-wtf/NightmareOnFantomSt)
-
-``` 0x44dEa70BE365F616F1b47346005045374e827b83 ```
-
-<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> TUNE.sol
-
-``` 0xf2781c06C07421E770A1F6B00415829C3C98a1b8 ```
-
-<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BubonicBastards.sol
-
-``` 0x9B1372e4A65d914D670f061913AD746250533b49 ```
-
-<img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> BLOODToken.sol
-
-``` 0xa75bdbc03a9e5ea6e695aa3e8321f181f61d0fae ```
-
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> [Narcissus.sol](https://polygonscan.com/address/0xF8eAE98B903026FFc6Cf6C110FcA374A2f16CE82)
-
-```0xF8eAE98B903026FFc6Cf6C110FcA374A2f16CE82```
-
-<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> [DegenDwarfs.sol](https://etherscan.io/address/0x1c1d2097147cc1ffc0a9a3e50bdbc8ff616cfe93)
-
-```0x1c1D2097147Cc1FFC0a9A3e50bDBc8Ff616CfE93```
-
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> [FangAndFur.sol](https://polygonscan.com/address/0x9091C144218D3Ab99C716833404B74A87aea4c74)
-
-```0x9091C144218D3Ab99C716833404B74A87aea4c74```
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### Development Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### Art/Media
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
