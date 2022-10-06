@@ -12,7 +12,7 @@
 
 ##  Experience
 #### Deployed on
-<img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> Ethereum <img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Polygon <img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> Fantom
+<img src="https://d33wubrfki0l68.cloudfront.net/3b8b93913fd51cacac56256a98ec42612c9c262a/b1261/static/a183661dd70e0e5c70689a0ec95ef0ba/13c43/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" width="12" height="18" /> Ethereum <img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Polygon <img src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" data-canonical-src="https://avatars.githubusercontent.com/u/39045722?s=200&v=4" width="20" height="20" /> Fantom
 #### Development Languages
 <!-- TODO: Make technologies links takes you to repositories -->
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
